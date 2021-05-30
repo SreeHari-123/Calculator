@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SreeHari-123
+- 👋 Hi, I’m SreeHari-123
 - 👀 I’m interested in becoming a full stack developer
 - 🌱 I’m currently learning ReactJs
 - 💞️ I’m looking to collaborate on ...
